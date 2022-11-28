@@ -1,0 +1,13 @@
+#container-form .form-group{
+    border-bottom: 1px solid rgba(14, 14, 14, 0.1);
+}
+
+form{
+    width: 370px;
+    margin-top: 150px;
+}
+
+#container-form{
+    display: flex;
+    justify-content: center;
+}
